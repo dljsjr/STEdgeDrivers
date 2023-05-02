@@ -1,0 +1,5 @@
+name: 'Empty LAN Driver'
+packageKey: 'empty-lan-driver'
+permissions:
+  lan: {}
+  discovery: {}

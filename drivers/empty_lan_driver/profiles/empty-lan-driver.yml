@@ -1,4 +1,4 @@
-name: sonos-player
+name: empty-lan-driver
 components:
 - id: main
   capabilities:

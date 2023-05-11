@@ -1,0 +1,5 @@
+name: 'Driver that Fails to Configure'
+packageKey: 'bad-doconf-lan-driver'
+permissions:
+  lan: {}
+  discovery: {}

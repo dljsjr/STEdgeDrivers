@@ -1,0 +1,5 @@
+name: 'REST Client Sandbox'
+packageKey: 'rest-client-sandbox'
+permissions:
+  lan: {}
+  discovery: {}

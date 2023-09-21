@@ -1,0 +1,5 @@
+name: 'LAN Driver that Adds after Discovery ends'
+packageKey: 'add-after-disco'
+permissions:
+  lan: {}
+  discovery: {}

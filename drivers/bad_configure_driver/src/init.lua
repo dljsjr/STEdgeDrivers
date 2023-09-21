@@ -29,7 +29,7 @@ function bad_configure(_, _)
   error("Guess I'll Die :(", 42)
 end
 
-local driver = Driver("Empty LAN Driver", {
+local driver = Driver("Bad DoConfigure Driver", {
   discovery = disco,
   device_created = false,
   lifecycle_handlers = {

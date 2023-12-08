@@ -1,0 +1,27 @@
+{
+    "workspace.library": [
+        "$/home/dstephen/opt/lua_libs/",
+        "/home/dstephen/opt/hub/lua_script_dir/",
+        "/home/dstephen/.luarocks/share/lua/5.3/"
+    ],
+    "runtime.path": [
+        "./?.lua",
+        "./?/init.lua",
+        "?.lua",
+        "?/init.lua"
+    ],
+    "runtime.version": "Lua 5.3",
+    "diagnostics.disable": [
+        "lowercase-global"
+    ],
+    "workspace.preloadFileSize": 200,
+    "diagnostics.libraryFiles": "Disable",
+    "hint.enable": true,
+    "hint.setType": true,
+    "codeLens.enable": true,
+    "castNumberToInteger": false,
+    "semantic.annotation": true,
+    "semantic.enable": true,
+    "semantic.keyword": true,
+    "semantic.variable": true
+}

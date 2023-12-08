@@ -1,0 +1,5 @@
+name: "Toolbox Driver"
+packageKey: "toolbox"
+permissions:
+  lan: {}
+  discovery: {}

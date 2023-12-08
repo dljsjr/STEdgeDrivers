@@ -1,0 +1,7 @@
+id: absolutedegree01276.createRestClient
+version: 1
+detailView:
+  - label: "New Rest Client"
+    displayType: pushButton
+    pushButton:
+      command: newRestClient

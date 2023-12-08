@@ -1,0 +1,8 @@
+name: toolbox
+components:
+  - id: main
+    capabilities:
+      - id: refresh
+        version: 1
+      - id: absolutedegree01276.createRestClient
+        version: 1

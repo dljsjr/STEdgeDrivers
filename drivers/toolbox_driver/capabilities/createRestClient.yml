@@ -1,0 +1,10 @@
+id: absolutedegree01276.createRestClient
+version: 1
+status: proposed
+ephemeral: false
+name: Create Rest Client
+attributes: {}
+commands:
+  newRestClient:
+    arguments: []
+    name: newRestClient
